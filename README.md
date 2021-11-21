@@ -37,8 +37,9 @@ This is an implementation of a Linux shell written in C language.
 - Accounts for double quotes as well.
 - Works same as the Ubuntu shell.
 - Supports multi commands in a single line i.e.
- ```echo hi; echo hello
-will show output as :
+ ```
+ echo hi; echo hello
+     will show output as :
 hi
 hello
 ```
