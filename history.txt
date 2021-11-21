@@ -1,0 +1,82 @@
+sleep 50 &
+sg 8215[D[D
+fg 8215
+jobs
+fg 4
+overkill
+jobs
+sleep 50
+clear
+
+sleep 100
+jobs
+jobs -s
+sleep 15
+jobs
+sleep 15 &
+jobs
+jobs -s
+jobs -r
+
+
+jobs -r
+g 8215
+
+bs
+ &
+
+
+
+0 &
+gedit &
+&
+ -l -a
+s -a -l
+ -a
+ 9
+
+fg 1
+
+bg 2
+g 1
+
+ep 75 &
+jobs
+sig 2 9
+
+fg 1
+ 9
+
+ig 2 9
+
+75 &
+10 &
+ 5s
+ sleep 5 &
+ig 2 9
+sleep 5s
+cat t.txt
+sig 2 9
+t
+t
+txt
+txt > out.txt
+> d.txt
+cat d.txt
+jobs
+cat d.txt
+t
+s
+pinfo
+t
+jobs
+sleep 5
+sleep 5s
+cat line.txt
+jobs
+sleep 5
+txt
+jobs
+> line.txt
+cat line.txt
+ -l > line.txt
